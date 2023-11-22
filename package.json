@@ -1,6 +1,7 @@
 {
   "name": "remix-image",
   "author": "Josh McFarlin <josh@mcfarl.in>",
+  "version": "0.3.0",
   "license": "MIT",
   "private": true,
   "homepage": "https://remix-image.mcfarl.in",
